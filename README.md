@@ -2,4 +2,5 @@
 first lab about docker
 
 screenshot with launch of container
-![image](https://user-images.githubusercontent.com/102665740/160823080-6a3bdf41-90bf-4a64-8c6a-0a970b5f310d.png)
+
+![image](https://user-images.githubusercontent.com/102665740/160824955-29d06d61-0a94-4046-9ec0-c8d1c6f1570f.png)
